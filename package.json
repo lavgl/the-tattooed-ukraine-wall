@@ -1,0 +1,23 @@
+{
+  "name": "the-tattooed-ukraine-wall",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lavgl/the-tattooed-ukraine-wall.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lavgl/the-tattooed-ukraine-wall/issues"
+  },
+  "homepage": "https://github.com/lavgl/the-tattooed-ukraine-wall#readme",
+  "dependencies": {
+    "axios": "^0.17.1"
+  }
+}
